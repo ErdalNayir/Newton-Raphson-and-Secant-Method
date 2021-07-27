@@ -5,8 +5,7 @@ Created on Fri Mar 19 15:06:51 2021
 @author: erdal
 """
 
-import regex as rg
-import numpy as np
+
 from sympy import diff, Symbol
 from sympy.parsing.sympy_parser import parse_expr
 
